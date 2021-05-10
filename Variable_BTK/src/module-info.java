@@ -1,2 +1,0 @@
-module Variable_BTK {
-}
